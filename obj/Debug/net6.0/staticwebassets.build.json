@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TyJNEmsDkQU0bRpMwurvD8XJ/TSyLowTmQa6Bt0k4N8=",
+  "Source": "auth",
+  "BasePath": "_content/auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "auth/wwwroot",
+      "Source": "auth",
+      "ContentRoot": "/root/auth/wwwroot/",
+      "BasePath": "_content/auth",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/root/auth/wwwroot/css/styles.css",
+      "SourceId": "auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/auth/wwwroot/",
+      "BasePath": "_content/auth",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    }
+  ]
+}
